@@ -1,0 +1,45 @@
+@namespace president url(http://www.du.edu/~mschwart/xml/president);
+
+president|president {
+ display: block; 
+ width: 600px ;
+ font-size: 10pt; 
+ padding: 10px; 
+ margin: 4px; 
+ border-width: 1px;
+ border-style:groove;
+ border-color: black;
+ background: lightblue; 
+}
+
+president\:president {
+ display: block; 
+ width: 600px ;
+ font-size: 10pt; 
+ padding: 10px; 
+ margin: 4px; 
+ border-width: 1px;
+ border-style:groove;
+ border-color: black;
+ background: lightblue; 
+}
+
+president|name { display:block; font-family: roman, 'times new roman', times, serif; font-size: 16pt; font-weight: bold;  }
+
+president\:name { display:block; font-family: roman, 'times new roman', times, serif; font-size: 16pt; font-weight: bold;  }
+
+president|took_office, left_office { display:list-item; margin-left: 16px; }
+
+president\:took_office, left_office { display:list-item; margin-left: 16px; }
+
+president|party { display: block; font-family:roman, 'times new roman', times, serif; font-size: 12pt; font-style: italic; }
+
+president\:party { display: block; font-family:roman, 'times new roman', times, serif; font-size: 12pt; font-style: italic; }
+
+president|vice_president { display: block; font-family: roman, 'times new roman', times, serif; font-weight: bold; font-size: 12pt;  }
+
+president\:vice_president { display: block; font-family: roman, 'times new roman', times, serif; font-weight: bold; font-size: 12pt;  }
+
+president|number { display: none; }
+
+president\:number { display: none; }

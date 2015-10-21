@@ -1,0 +1,613 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+    Name: Zane C. Milakovic
+    Date: 10/11/2015
+    File: USPresidents.xml
+-->
+
+<!-- Information about US Presidents -->
+<?xml-stylesheet type="text/css" href="president.css" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="president.xsd"?>
+<presidents date="2012-08-18">
+    <president>
+        <number>1</number>
+        <name>George Washington</name>
+        <took_office>1789-04-30</took_office>
+        <left_office>1797-03-04</left_office>
+        <party>no party</party>
+        <term>
+            <number>1</number>
+            <vice_president>John Adams</vice_president> 
+        </term>
+        <term>
+            <number>2</number>
+            <vice_president>John Adams</vice_president>
+        </term>
+    </president>
+    
+    <president>
+        <number>2</number>
+        <name>John Adams</name>
+        <took_office>1797-03-04</took_office>
+        <left_office>1801-03-04</left_office>
+        <party>Federalist</party>
+        <term>
+            <number>3</number>
+            <vice_president>Thomas Jefferson</vice_president>
+        </term>
+    </president>
+    
+    <president>
+        <number>3</number>
+        <name>Thomas Jefferson</name>
+        <took_office>1801-03-04</took_office>
+        <left_office>1809-03-04</left_office>
+        <party>Democratic-Republican</party>
+        <term>
+            <number>4</number>
+            <vice_president>Aaron Burr</vice_president>
+        </term>
+        <term>
+            <number>5</number>
+            <vice_president>George Clinton</vice_president>
+        </term>
+    </president>
+    
+    <president>
+        <number>4</number>
+        <name>James Madison</name>
+        <took_office>1809-03-04</took_office>
+        <left_office>1817-03-04</left_office>
+        <party>Democratic-Republican</party>
+        <term>
+            <number>6</number>
+            <vice_president>George Clinton</vice_president>
+        </term>
+        <term>
+            <number>7</number>
+            <vice_president>Elbridge Gerry</vice_president>
+        </term>
+    </president>
+
+    <president>
+        <number>5</number>
+        <name>James Monroe</name>
+        <took_office>1817-03-04</took_office>
+        <left_office>1825-03-04</left_office>
+        <party>Democratic-Republican</party>
+        <term>
+            <number>8</number>
+            <vice_president>Daniel D. Tompkins</vice_president>
+        </term>
+        <term>
+            <number>9</number>
+            <vice_president>Daniel D. Tompkins</vice_president>
+        </term>
+    </president>
+    
+    <president>
+        <number>6</number>
+        <name>John Quincy Adams</name>
+        <took_office>1825-03-04</took_office>
+        <left_office>1829-03-04</left_office>
+        <party>Democratic-Republican</party>
+        <term>
+            <number>10</number>
+            <vice_president>John C. Calhoun</vice_president>
+        </term>
+    </president>
+    
+    <president>
+        <number>7</number>
+        <name>Andrew Jackson</name>
+        <took_office>1829-03-04</took_office>
+        <left_office>1837-03-04</left_office>
+        <party>Democratic</party>
+        <term>
+            <number>11</number>
+            <vice_president>John C. Calhoun</vice_president>
+        </term>
+        <term>
+            <number>12</number>
+        <vice_president>Martin Van Buren</vice_president>
+        </term>
+    </president>
+    
+    <president>
+        <number>8</number>
+        <name>Martin Van Buren</name>
+        <took_office>1837-03-04</took_office>
+        <left_office>1841-03-04</left_office>
+        <party>Democratic</party>
+        <term>
+            <number>13</number>
+            <vice_president>Richard Mentor Johnson</vice_president>
+        </term>
+    </president>
+    
+    <president>
+        <number>9</number>
+        <name>William Henry Harrison</name>
+        <took_office>1841-03-04</took_office>
+        <left_office>1841-04-04</left_office>
+        <party>Whig</party>
+        <term>
+            <number>14</number>
+            <vice_president>John Tyler</vice_president>
+        </term>
+    </president>
+    
+    <president>
+        <number>10</number>
+        <name>John Tyler</name>
+        <took_office>1841-04-04</took_office>
+        <left_office>1845-03-04</left_office>
+        <party>Whig</party>
+        <term>
+            <number>14</number>
+            <vice_president>None</vice_president>
+        </term>
+    </president>
+    
+    <president>
+        <number>11</number>
+        <name>James K. Polk</name>
+        <took_office>1845-03-04</took_office>
+        <left_office>1849-03-04</left_office>
+        <party>Democratic</party>
+        <term>
+            <number>15</number>
+            <vice_president>George M. Dallas</vice_president>
+        </term>
+    </president>
+    
+    <president>
+        <number>12</number>
+        <name>Zachary Taylor</name>
+        <took_office>1849-03-04</took_office>
+        <left_office>1850-07-09</left_office>
+        <party>Whig</party>
+        <term>
+            <number>16</number>
+            <vice_president>Millard Fillmore</vice_president>
+        </term>
+    </president>
+    
+    <president>
+        <number>13</number>
+        <name>Millard Fillmore</name>
+        <took_office>1850-07-09</took_office>
+        <left_office>1853-03-04</left_office>
+        <party>Whig</party>
+        <term>
+            <number>16</number>
+            <vice_president>None</vice_president>
+        </term>
+    </president>
+    
+    <president>
+        <number>14</number>
+        <name>Franklin Pierce</name>
+        <took_office>1853-03-04</took_office>
+        <left_office>1857-03-04</left_office>
+        <party>Democratic</party>
+        <term>
+            <number>17</number>
+            <vice_president>William R. King</vice_president>
+        </term>
+    </president>
+    
+    <president>
+        <number>15</number>
+        <name>James Buchanan</name>
+        <took_office>1857-03-04</took_office>
+        <left_office>1861-03-04</left_office>
+        <party>Democratic</party>
+        <term>
+            <number>18</number>
+            <vice_president>John C. Breckinridge</vice_president>
+        </term>
+    </president>
+    
+    <president>
+        <number>16</number>
+        <name>Abraham Lincoln</name>
+        <took_office>1861-03-04</took_office>
+        <left_office>1865-04-15</left_office>
+        <party>Republican</party>
+        <term>
+            <number>19</number>
+            <vice_president>Hannibal Hamlin</vice_president>
+        </term>
+        <term>
+            <number>20</number>
+            <vice_president>Andrew Johnson</vice_president>
+        </term>
+    </president>
+    
+    <president>
+        <number>17</number>
+        <name>Andrew Johnson</name>
+        <took_office>1865-04-15</took_office>
+        <left_office>1869-03-04</left_office>
+        <party>Democratic</party>
+        <term>
+            <number>20</number>
+            <vice_president>None</vice_president>
+        </term>
+    </president>
+    
+    <president>
+        <number>18</number>
+        <name>Ulysses S. Grant</name>
+        <took_office>1869-03-04</took_office>
+        <left_office>1877-03-04</left_office>
+        <party>Republican</party>
+        <term>
+            <number>21</number>
+            <vice_president>Schuyler Colfax</vice_president>
+        </term>
+        <term>
+            <number>22</number>
+            <vice_president>Henry Wilson</vice_president>
+        </term>
+    </president>
+
+    <president>
+        <number>19</number>
+        <name>Rutherford B. Hayes</name>
+        <took_office>1877-03-04</took_office>
+        <left_office>1881-03-04</left_office>
+        <party>Republican</party>
+        <term>
+            <number>23</number>
+            <vice_president>William A. Wheeler</vice_president>
+        </term>
+    </president>
+
+    <president>
+        <number>20</number>
+        <name>James A. Garfield</name>
+        <took_office>1881-03-04</took_office>
+        <left_office>1881-09-19</left_office>
+        <party>Republican</party>
+        <term>
+            <number>24</number>
+            <vice_president>Chester A. Arthur</vice_president>
+        </term>
+    </president>
+
+    <president>
+        <number>21</number>
+        <name>Chester A. Arthur</name>
+        <took_office>1881-09-19</took_office>
+        <left_office>1885-03-04</left_office>
+        <party>Republican</party>
+        <term>
+            <number>24</number>
+            <vice_president>None</vice_president>
+        </term>
+    </president>
+
+    <president>
+        <number>22</number>
+        <name>Grover Cleveland</name>
+        <took_office>1885-03-04</took_office>
+        <left_office>1889-03-04</left_office>
+        <party>Democratic</party>
+        <term>
+            <number>25</number>
+            <vice_president>Thomas A. Hendricks</vice_president>
+        </term>
+    </president>
+
+    <president>
+        <number>23</number>
+        <name>Benjamin Harrison</name>
+        <took_office>1889-03-04</took_office>
+        <left_office>1893-03-04</left_office>
+        <party>Republican</party>
+        <term>
+            <number>26</number>
+            <vice_president>Levi P. Morton</vice_president>
+        </term>
+    </president>
+    
+    <president>
+        <number>24</number>
+        <name>Grover Cleveland</name>
+        <took_office>1893-03-04</took_office>
+        <left_office>1897-03-04</left_office>
+        <party>Democratic</party>
+        <term>
+            <number>27</number>
+            <vice_president>Adlai Stevenson I</vice_president>
+        </term>
+    </president>
+
+    <president>
+        <number>25</number>
+        <name>William McKinley</name>
+        <took_office>1897-03-04</took_office>
+        <left_office>1901-09-14</left_office>
+        <party>Republican</party>
+        <term>
+            <number>28</number>
+            <vice_president>Garret Hobart</vice_president>
+        </term>
+        <term>
+            <number>29</number>
+            <vice_president>Theodore Roosevelt</vice_president>
+        </term>
+    </president>
+    
+    <president>
+        <number>26</number>
+        <name>Theodore Roosevelt</name>
+        <took_office>1901-09-14</took_office>
+        <left_office>1909-03-04</left_office>
+        <party>Republican</party>
+        <term>
+            <number>29</number>
+            <vice_president>None</vice_president>
+        </term>
+        <term>
+            <number>30</number>
+            <vice_president>Charles W. Fairbanks</vice_president>
+        </term>
+    </president>
+
+    <president>
+        <number>27</number>
+        <name>William Howard Taft</name>
+        <took_office>1909-03-04</took_office>
+        <left_office>1913-03-04</left_office>
+        <party>Republican</party>
+        <term>
+            <number>31</number>
+            <vice_president>James S. Sherman</vice_president>
+        </term>
+    </president>
+    
+    <president>
+        <number>28</number>
+        <name>Woodrow Wilson</name>
+        <took_office>1913-03-04</took_office>
+        <left_office>1921-03-04</left_office>
+        <party>Democratic</party>
+        <term>
+            <number>32</number>
+            <vice_president>Thomas R. Marshall</vice_president>
+        </term>
+    </president>
+    
+    <president>
+        <number>29</number>
+        <name>Warren G. Harding</name>
+        <took_office>1921-03-04</took_office>
+        <left_office>1923-08-02</left_office>
+        <party>Republican</party>
+        <term>
+            <number>34</number>
+            <vice_president>Calvin Coolidge</vice_president>
+        </term>
+    </president>
+    
+    <president>
+        <number>30</number>
+        <name>Calvin Coolidge</name>
+        <took_office>1923-08-02</took_office>
+        <left_office>1929-03-04</left_office>
+        <party>Republican</party>
+        <term>
+            <number>35</number>
+            <vice_president>Charles G. Dawes</vice_president>
+        </term>
+    </president>
+    
+    <president>
+        <number>31</number>
+        <name>Herbert Hoover</name>
+        <took_office>1929-03-04</took_office>
+        <left_office>1933-03-04</left_office>
+        <party>Republican</party>
+        <term>
+            <number>36</number>
+            <vice_president>Charles Curtis</vice_president>
+        </term>
+    </president>
+    
+    <president>
+        <number>32</number>
+        <name>Franklin D. Roosevelt</name>
+        <took_office>1933-03-04</took_office>
+        <left_office>1945-04-12</left_office>
+        <party>Democratic</party>
+        <term>
+            <number>37</number>
+            <vice_president>John Nance Gardner</vice_president>
+        </term>
+        <term>
+            <number>38</number>
+            <vice_president>John Nance Gardner</vice_president>
+        </term>
+        <term>
+            <number>39</number>
+            <vice_president>Henry A. Wallace</vice_president>
+        </term>
+        <term>
+            <number>40</number>
+            <vice_president>Harry S. Truman</vice_president>
+        </term>
+    </president>
+    
+    <president>
+        <number>33</number>
+        <name>Harry S. Truman</name>
+        <took_office>1945-04-12</took_office>
+        <left_office>1953-01-20</left_office>
+        <party>Democratic</party>
+        <term>
+            <number>40</number>
+            <vice_president>None</vice_president>
+        </term>
+        <term>
+            <number>41</number>
+            <vice_president>Alben W. Barkley</vice_president>
+        </term>
+    </president>
+    
+    <president>
+        <number>34</number>
+        <name>Dwight D. Eisenhower</name>
+        <took_office>1953-01-20</took_office>
+        <left_office>1961-01-20</left_office>
+        <party>Republican</party>
+        <term>
+            <number>42</number>
+            <vice_president>Richard Nixon</vice_president>
+        </term>
+        <term>
+            <number>43</number>
+            <vice_president>Richard Nixon</vice_president>
+        </term>
+    </president>
+    
+    <president>
+        <number>35</number>
+        <name>John F. Kennedy</name>
+        <took_office>1961-01-20</took_office>
+        <left_office>1963-11-22</left_office>
+        <party>Democratic</party>
+        <term>
+            <number>44</number>
+            <vice_president>Lyndon B. Johnson</vice_president>
+        </term>
+    </president>
+    
+    <president>
+        <number>36</number>
+        <name>Lyndon B. Johnson</name>
+        <took_office>1963-11-22</took_office>
+        <left_office>1969-01-20</left_office>
+        <party>Democratic</party>
+        <term>
+            <number>44</number>
+            <vice_president>None</vice_president>
+        </term>
+        <term>
+            <number>45</number>
+            <vice_president>Hubert Humphrey</vice_president>
+        </term>
+    </president>
+    
+    <president>
+        <number>37</number>
+        <name>Richard Nixon</name>
+        <took_office>1969-01-20</took_office>
+        <left_office>1974-08-09</left_office>
+        <party>Republican</party>
+        <term>
+            <number>46</number>
+            <vice_president>Spiro Agnew</vice_president>
+        </term>
+        <term>
+            <number>47</number>
+            <vice_president>Gerald Ford</vice_president>
+        </term>
+    </president>
+    
+    <president>
+        <number>38</number>
+        <name>Gerald Ford</name>
+        <took_office>1974-08-09</took_office>
+        <left_office>1977-01-20</left_office>
+        <party>Republican</party>
+        <term>
+            <number>47</number>
+            <vice_president>Nelson Rockefeller</vice_president>
+        </term>
+    </president>
+    
+    <president>
+        <number>39</number>
+        <name>Jimmy Carter</name>
+        <took_office>1977-01-20</took_office>
+        <left_office>1981-01-20</left_office>
+        <party>Democratic</party>
+        <term>
+            <number>48</number>
+            <vice_president>Walter Mondale</vice_president>
+        </term>
+    </president>
+    
+    <president>
+        <number>40</number>
+        <name>Ronald Reagan</name>
+        <took_office>1981-01-20</took_office>
+        <left_office>1989-01-20</left_office>
+        <party>Republican</party>
+        <term>
+            <number>49</number>
+            <vice_president>George H. W. Bush</vice_president>
+        </term>
+        <term>
+            <number>50</number>
+            <vice_president>George H. W. Bush</vice_president>
+        </term>
+    </president>
+    
+    <president>
+        <number>41</number>
+        <name>George H. W. Bush</name>
+        <took_office>1989-01-20</took_office>
+        <left_office>1993-01-20</left_office>
+        <party>Republican</party>
+        <term>
+            <number>51</number>
+            <vice_president>Dan Quayle</vice_president>
+        </term>
+    </president>
+    
+    <president>
+        <number>42</number>
+        <name>Bill Clinton</name>
+        <took_office>1993-01-20</took_office>
+        <left_office>2001-01-20</left_office>
+        <party>Democratic</party>
+        <term>
+            <number>52</number>
+            <vice_president>Al Gore</vice_president>
+        </term>
+        <term>
+            <number>53</number>
+            <vice_president>Al Gore</vice_president>
+        </term>
+    </president>
+    
+    <president>
+        <number>43</number>
+        <name>George W. Bush</name>
+        <took_office>2001-01-20</took_office>
+        <left_office>2009-01-20</left_office>
+        <party>Republican</party>
+        <term>
+            <number>54</number>
+            <vice_president>Dick Cheney</vice_president>
+        </term>
+        <term>
+            <number>55</number>
+            <vice_president>Dick Cheney</vice_president>
+        </term>
+    </president>
+    
+    <president>
+        <number>44</number>
+        <name>Barack Obama</name>
+        <took_office>2009-01-20</took_office>
+        <party>Democratic</party>
+        <term>
+            <number>56</number>
+            <vice_president>Joe Biden</vice_president>
+        </term>
+    </president>
+</presidents>
