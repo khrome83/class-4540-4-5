@@ -13,7 +13,7 @@
         <name>George Washington</name>
         <took_office>1789-04-30</took_office>
         <left_office>1797-03-04</left_office>
-        <birthday></birthday>
+        <birthday>1732-02-22</birthday>
         <party>no party</party>
         <term>
             <number>1</number>
@@ -30,7 +30,7 @@
         <name>John Adams</name>
         <took_office>1797-03-04</took_office>
         <left_office>1801-03-04</left_office>
-        <birthday></birthday>
+        <birthday>1735-10-30</birthday>
         <party>Federalist</party>
         <term>
             <number>3</number>
@@ -43,7 +43,7 @@
         <name>Thomas Jefferson</name>
         <took_office>1801-03-04</took_office>
         <left_office>1809-03-04</left_office>
-        <birthday></birthday>
+        <birthday>1743-04-13</birthday>
         <party>Democratic-Republican</party>
         <term>
             <number>4</number>
@@ -60,7 +60,7 @@
         <name>James Madison</name>
         <took_office>1809-03-04</took_office>
         <left_office>1817-03-04</left_office>
-        <birthday></birthday>
+        <birthday>1751-03-16</birthday>
         <party>Democratic-Republican</party>
         <term>
             <number>6</number>
@@ -77,7 +77,7 @@
         <name>James Monroe</name>
         <took_office>1817-03-04</took_office>
         <left_office>1825-03-04</left_office>
-        <birthday></birthday>
+        <birthday>1758-04-28</birthday>
         <party>Democratic-Republican</party>
         <term>
             <number>8</number>
@@ -94,7 +94,7 @@
         <name>John Quincy Adams</name>
         <took_office>1825-03-04</took_office>
         <left_office>1829-03-04</left_office>
-        <birthday></birthday>
+        <birthday>1767-07-11</birthday>
         <party>Democratic-Republican</party>
         <term>
             <number>10</number>
@@ -107,7 +107,7 @@
         <name>Andrew Jackson</name>
         <took_office>1829-03-04</took_office>
         <left_office>1837-03-04</left_office>
-        <birthday></birthday>
+        <birthday>1767-03-15</birthday>
         <party>Democratic</party>
         <term>
             <number>11</number>
@@ -124,7 +124,7 @@
         <name>Martin Van Buren</name>
         <took_office>1837-03-04</took_office>
         <left_office>1841-03-04</left_office>
-        <birthday></birthday>
+        <birthday>1782-12-05</birthday>
         <party>Democratic</party>
         <term>
             <number>13</number>
@@ -137,7 +137,7 @@
         <name>William Henry Harrison</name>
         <took_office>1841-03-04</took_office>
         <left_office>1841-04-04</left_office>
-        <birthday></birthday>
+        <birthday>1773-02-09</birthday>
         <party>Whig</party>
         <term>
             <number>14</number>
@@ -150,7 +150,7 @@
         <name>John Tyler</name>
         <took_office>1841-04-04</took_office>
         <left_office>1845-03-04</left_office>
-        <birthday></birthday>
+        <birthday>1790-03-29</birthday>
         <party>Whig</party>
         <term>
             <number>14</number>
@@ -163,7 +163,7 @@
         <name>James K. Polk</name>
         <took_office>1845-03-04</took_office>
         <left_office>1849-03-04</left_office>
-        <birthday></birthday>
+        <birthday>1795-11-02</birthday>
         <party>Democratic</party>
         <term>
             <number>15</number>
@@ -176,7 +176,7 @@
         <name>Zachary Taylor</name>
         <took_office>1849-03-04</took_office>
         <left_office>1850-07-09</left_office>
-        <birthday></birthday>
+        <birthday>1784-11-24</birthday>
         <party>Whig</party>
         <term>
             <number>16</number>
@@ -189,7 +189,7 @@
         <name>Millard Fillmore</name>
         <took_office>1850-07-09</took_office>
         <left_office>1853-03-04</left_office>
-        <birthday></birthday>
+        <birthday>1800-01-07</birthday>
         <party>Whig</party>
         <term>
             <number>16</number>
@@ -202,7 +202,7 @@
         <name>Franklin Pierce</name>
         <took_office>1853-03-04</took_office>
         <left_office>1857-03-04</left_office>
-        <birthday></birthday>
+        <birthday>1804-11-23</birthday>
         <party>Democratic</party>
         <term>
             <number>17</number>
@@ -215,7 +215,7 @@
         <name>James Buchanan</name>
         <took_office>1857-03-04</took_office>
         <left_office>1861-03-04</left_office>
-        <birthday></birthday>
+        <birthday>1791-04-23</birthday>
         <party>Democratic</party>
         <term>
             <number>18</number>
@@ -228,7 +228,7 @@
         <name>Abraham Lincoln</name>
         <took_office>1861-03-04</took_office>
         <left_office>1865-04-15</left_office>
-        <birthday></birthday>
+        <birthday>1809-02-12</birthday>
         <party>Republican</party>
         <term>
             <number>19</number>
@@ -245,7 +245,7 @@
         <name>Andrew Johnson</name>
         <took_office>1865-04-15</took_office>
         <left_office>1869-03-04</left_office>
-        <birthday></birthday>
+        <birthday>1808-12-29</birthday>
         <party>Democratic</party>
         <term>
             <number>20</number>
@@ -258,7 +258,7 @@
         <name>Ulysses S. Grant</name>
         <took_office>1869-03-04</took_office>
         <left_office>1877-03-04</left_office>
-        <birthday></birthday>
+        <birthday>1822-04-27</birthday>
         <party>Republican</party>
         <term>
             <number>21</number>
@@ -275,7 +275,7 @@
         <name>Rutherford B. Hayes</name>
         <took_office>1877-03-04</took_office>
         <left_office>1881-03-04</left_office>
-        <birthday></birthday>
+        <birthday>1822-10-04</birthday>
         <party>Republican</party>
         <term>
             <number>23</number>
@@ -288,7 +288,7 @@
         <name>James A. Garfield</name>
         <took_office>1881-03-04</took_office>
         <left_office>1881-09-19</left_office>
-        <birthday></birthday>
+        <birthday>1831-11-19</birthday>
         <party>Republican</party>
         <term>
             <number>24</number>
@@ -301,7 +301,7 @@
         <name>Chester A. Arthur</name>
         <took_office>1881-09-19</took_office>
         <left_office>1885-03-04</left_office>
-        <birthday></birthday>
+        <birthday>1830-10-05</birthday>
         <party>Republican</party>
         <term>
             <number>24</number>
@@ -314,7 +314,7 @@
         <name>Grover Cleveland</name>
         <took_office>1885-03-04</took_office>
         <left_office>1889-03-04</left_office>
-        <birthday></birthday>
+        <birthday>1837-03-18</birthday>
         <party>Democratic</party>
         <term>
             <number>25</number>
@@ -327,7 +327,7 @@
         <name>Benjamin Harrison</name>
         <took_office>1889-03-04</took_office>
         <left_office>1893-03-04</left_office>
-        <birthday></birthday>
+        <birthday>1833-08-20</birthday>
         <party>Republican</party>
         <term>
             <number>26</number>
@@ -340,7 +340,7 @@
         <name>Grover Cleveland</name>
         <took_office>1893-03-04</took_office>
         <left_office>1897-03-04</left_office>
-        <birthday></birthday>
+        <birthday>1837-03-18</birthday>
         <party>Democratic</party>
         <term>
             <number>27</number>
@@ -353,7 +353,7 @@
         <name>William McKinley</name>
         <took_office>1897-03-04</took_office>
         <left_office>1901-09-14</left_office>
-        <birthday></birthday>
+        <birthday>1843-01-29</birthday>
         <party>Republican</party>
         <term>
             <number>28</number>
@@ -370,7 +370,7 @@
         <name>Theodore Roosevelt</name>
         <took_office>1901-09-14</took_office>
         <left_office>1909-03-04</left_office>
-        <birthday></birthday>
+        <birthday>1858-10-27</birthday>
         <party>Republican</party>
         <term>
             <number>29</number>
@@ -387,7 +387,7 @@
         <name>William Howard Taft</name>
         <took_office>1909-03-04</took_office>
         <left_office>1913-03-04</left_office>
-        <birthday></birthday>
+        <birthday>1857-09-15</birthday>
         <party>Republican</party>
         <term>
             <number>31</number>
@@ -400,7 +400,7 @@
         <name>Woodrow Wilson</name>
         <took_office>1913-03-04</took_office>
         <left_office>1921-03-04</left_office>
-        <birthday></birthday>
+        <birthday>1856-12-28</birthday>
         <party>Democratic</party>
         <term>
             <number>32</number>
@@ -413,7 +413,7 @@
         <name>Warren G. Harding</name>
         <took_office>1921-03-04</took_office>
         <left_office>1923-08-02</left_office>
-        <birthday></birthday>
+        <birthday>1865-11-02</birthday>
         <party>Republican</party>
         <term>
             <number>34</number>
@@ -426,7 +426,7 @@
         <name>Calvin Coolidge</name>
         <took_office>1923-08-02</took_office>
         <left_office>1929-03-04</left_office>
-        <birthday></birthday>
+        <birthday>1872-07-04</birthday>
         <party>Republican</party>
         <term>
             <number>35</number>
@@ -439,7 +439,7 @@
         <name>Herbert Hoover</name>
         <took_office>1929-03-04</took_office>
         <left_office>1933-03-04</left_office>
-        <birthday></birthday>
+        <birthday>1874-08-10</birthday>
         <party>Republican</party>
         <term>
             <number>36</number>
@@ -452,7 +452,7 @@
         <name>Franklin D. Roosevelt</name>
         <took_office>1933-03-04</took_office>
         <left_office>1945-04-12</left_office>
-        <birthday></birthday>
+        <birthday>1882-01-30</birthday>
         <party>Democratic</party>
         <term>
             <number>37</number>
@@ -477,7 +477,7 @@
         <name>Harry S. Truman</name>
         <took_office>1945-04-12</took_office>
         <left_office>1953-01-20</left_office>
-        <birthday></birthday>
+        <birthday>1884-05-08</birthday>
         <party>Democratic</party>
         <term>
             <number>40</number>
@@ -494,7 +494,7 @@
         <name>Dwight D. Eisenhower</name>
         <took_office>1953-01-20</took_office>
         <left_office>1961-01-20</left_office>
-        <birthday></birthday>
+        <birthday>1890-10-14</birthday>
         <party>Republican</party>
         <term>
             <number>42</number>
@@ -511,7 +511,7 @@
         <name>John F. Kennedy</name>
         <took_office>1961-01-20</took_office>
         <left_office>1963-11-22</left_office>
-        <birthday></birthday>
+        <birthday>1917-05-29</birthday>
         <party>Democratic</party>
         <term>
             <number>44</number>
@@ -524,7 +524,7 @@
         <name>Lyndon B. Johnson</name>
         <took_office>1963-11-22</took_office>
         <left_office>1969-01-20</left_office>
-        <birthday></birthday>
+        <birthday>1908-08-27</birthday>
         <party>Democratic</party>
         <term>
             <number>44</number>
@@ -541,7 +541,7 @@
         <name>Richard Nixon</name>
         <took_office>1969-01-20</took_office>
         <left_office>1974-08-09</left_office>
-        <birthday></birthday>
+        <birthday>1913-01-09</birthday>
         <party>Republican</party>
         <term>
             <number>46</number>
@@ -558,7 +558,7 @@
         <name>Gerald Ford</name>
         <took_office>1974-08-09</took_office>
         <left_office>1977-01-20</left_office>
-        <birthday></birthday>
+        <birthday>1913-07-14</birthday>
         <party>Republican</party>
         <term>
             <number>47</number>
@@ -571,7 +571,7 @@
         <name>Jimmy Carter</name>
         <took_office>1977-01-20</took_office>
         <left_office>1981-01-20</left_office>
-        <birthday></birthday>
+        <birthday>1924-10-01</birthday>
         <party>Democratic</party>
         <term>
             <number>48</number>
@@ -584,7 +584,7 @@
         <name>Ronald Reagan</name>
         <took_office>1981-01-20</took_office>
         <left_office>1989-01-20</left_office>
-        <birthday></birthday>
+        <birthday>1911-02-06</birthday>
         <party>Republican</party>
         <term>
             <number>49</number>
@@ -601,7 +601,7 @@
         <name>George H. W. Bush</name>
         <took_office>1989-01-20</took_office>
         <left_office>1993-01-20</left_office>
-        <birthday></birthday>
+        <birthday>1924-06-12</birthday>
         <party>Republican</party>
         <term>
             <number>51</number>
@@ -614,7 +614,7 @@
         <name>Bill Clinton</name>
         <took_office>1993-01-20</took_office>
         <left_office>2001-01-20</left_office>
-        <birthday></birthday>
+        <birthday>1946-08-19</birthday>
         <party>Democratic</party>
         <term>
             <number>52</number>
@@ -631,7 +631,7 @@
         <name>George W. Bush</name>
         <took_office>2001-01-20</took_office>
         <left_office>2009-01-20</left_office>
-        <birthday></birthday>
+        <birthday>1946-07-06</birthday>
         <party>Republican</party>
         <term>
             <number>54</number>
@@ -647,7 +647,7 @@
         <number>44</number>
         <name>Barack Obama</name>
         <took_office>2009-01-20</took_office>
-        <birthday></birthday>
+        <birthday>1961-08-04</birthday>
         <party>Democratic</party>
         <term>
             <number>56</number>
