@@ -8,7 +8,7 @@
 <xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" version="1.0">
     <xsl:output method="html"/>
     
-    <xsl:template match="president/name">
+    <xsl:template match="name">
         <td><xsl:value-of select="."/></td>
     </xsl:template>
     
@@ -38,6 +38,23 @@
         </tr>
      </xsl:template>
     
+     <xsl:template match="presidents">
+        <table>
+            <thead>
+                <tr>
+                    <th>Name</th>
+                    <th>Birthday</th>
+                    <th>Took Office</th>
+                    <th>Left Office</th>
+                    <th>Party</th>
+                </tr>
+            </thead>
+            <tbody>
+                <xsl:apply-templates select="president"/>
+            </tbody>
+        </table>
+     </xsl:template>
+    
     <xsl:template match="/">
         <html>
             <head>
@@ -46,20 +63,7 @@
             </head>
             <body>
                 <h1>Table of US Presidents</h1>
-                <table>
-                    <thead>
-                        <tr>
-                            <th>Name</th>
-                            <th>Birthday</th>
-                            <th>Took Office</th>
-                            <th>Left Office</th>
-                            <th>Party</th>
-                        </tr>
-                    </thead>
-                    <tbody>
-                        <xsl:apply-templates select="presidents/president"/>
-                    </tbody>
-                </table>
+                <xsl:apply-templates select="presidents"/>
             </body>
         </html>
     </xsl:template>
