@@ -6,7 +6,8 @@
 -->
 
 <!-- Information about US Presidents -->
-<?xml-stylesheet type="text/css" href="president.css" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="president.xsd"?>
+<?xml-stylesheet type="text/css" href="president_table.css"?>
+<?xml-stylesheet type="text/xsl" href="president_table.xsl"?>
 <presidents date="2012-08-18">
     <president>
         <number>1</number>
