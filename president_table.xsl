@@ -4,9 +4,12 @@
     Date: 10/21/2015
     File: president_table.xsl
 -->
-
 <xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" version="1.0">
     <xsl:output method="html"/>
+    
+    <!-- used for translation of party to a proper css class name -->
+    <xsl:variable name="smallcase" select="'abcdefghijklmnopqrstuvwxyz-'" />
+    <xsl:variable name="uppercase" select="'ABCDEFGHIJKLMNOPQRSTUVWXYZ '" />
     
     <xsl:template match="name">
         <td class="name"><xsl:value-of select="."/></td>
@@ -25,7 +28,14 @@
     </xsl:template>
     
     <xsl:template match="party">
-        <td class="party"><xsl:value-of select="."/></td>
+        <xsl:element name="td">
+            <xsl:attribute name="class">
+                <!-- based on concepts from stackoverflow post to translate the data with XSLT 1.0 -->
+                <!-- http://stackoverflow.com/questions/586231/how-can-i-convert-a-string-to-upper-or-lower-case-with-xslt -->
+                <xsl:value-of select="translate(., $uppercase, $smallcase)"/>
+            </xsl:attribute>
+            <xsl:value-of select="."/>
+        </xsl:element>
     </xsl:template>
     
     <xsl:template match="term">
