@@ -96,3 +96,33 @@ table tbody tr:nth-child(even) {
     width: 1em;
     text-align: center;
 }
+
+.whig { 
+    color: #0982b3;
+    background-color: #d9edf7;
+}
+
+.democratic { 
+    color: #42b007;
+    background-color: #dff0d8;
+}
+
+.republican { 
+    color: #c72222;
+    background-color: #f2dede;
+}
+
+.democratic-republican { 
+    color: #a117d4;
+    background-color: #e3c0f0;
+}
+
+.no-party { 
+    color: #eb8a02;
+    background-color: #fcddb1;
+}
+
+.federalist { 
+    color: #aba507;
+    background-color: #fcf8e3;
+}
