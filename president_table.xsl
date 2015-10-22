@@ -8,11 +8,35 @@
 <xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" version="1.0">
     <xsl:output method="html"/>
     
+    <xsl:template match="president/name">
+        <td><xsl:value-of select="."/></td>
+    </xsl:template>
+    
+    <xsl:template match="birthday">
+        <td><xsl:value-of select="."/></td>
+    </xsl:template>
+    
+    <xsl:template match="took_office">
+        <td><xsl:value-of select="."/></td>
+    </xsl:template>
+    
+    <xsl:template match="left_office">
+        <td><xsl:value-of select="."/></td>
+    </xsl:template>
+    
+    <xsl:template match="party">
+        <td><xsl:value-of select="."/></td>
+    </xsl:template>
+    
      <xsl:template match="president">
-        <p><xsl:value-of select="name"/></p>
+        <tr>
+            <xsl:apply-templates select="name"/>
+            <xsl:apply-templates select="birthday"/>
+            <xsl:apply-templates select="took_office"/>
+            <xsl:apply-templates select="left_office"/>
+            <xsl:apply-templates select="party"/>
+        </tr>
      </xsl:template>
-    
-    
     
     <xsl:template match="/">
         <html>
@@ -22,7 +46,20 @@
             </head>
             <body>
                 <h1>Table of US Presidents</h1>
-                <xsl:apply-templates select= "presidents/president"/> 
+                <table>
+                    <thead>
+                        <tr>
+                            <th>Name</th>
+                            <th>Birthday</th>
+                            <th>Took Office</th>
+                            <th>Left Office</th>
+                            <th>Party</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <xsl:apply-templates select="presidents/president"/>
+                    </tbody>
+                </table>
             </body>
         </html>
     </xsl:template>
