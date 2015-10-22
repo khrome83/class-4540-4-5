@@ -6,7 +6,6 @@
 -->
 
 <!-- Information about US Presidents -->
-<?xml-stylesheet type="text/css" href="president_table.css"?>
 <?xml-stylesheet type="text/xsl" href="president_table.xsl"?>
 <presidents date="2012-08-18">
     <president>
