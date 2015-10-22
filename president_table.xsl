@@ -28,6 +28,13 @@
         <td class="party"><xsl:value-of select="."/></td>
     </xsl:template>
     
+    <xsl:template match="term">
+        <tr>
+            <td class="number"><xsl:value-of select="number"/></td>
+            <td class="vice_president"><xsl:value-of select="vice_president"/></td>
+        </tr>
+    </xsl:template>
+    
      <xsl:template match="president">
         <tr>
             <xsl:apply-templates select="name"/>
@@ -35,6 +42,13 @@
             <xsl:apply-templates select="took_office"/>
             <xsl:apply-templates select="left_office"/>
             <xsl:apply-templates select="party"/>
+            <td>
+                <table class="vice_presidents">
+                    <tbody>
+                        <xsl:apply-templates select="term"/>
+                    </tbody>
+                </table>
+            </td>
         </tr>
      </xsl:template>
     
@@ -47,6 +61,7 @@
                     <th>Took Office</th>
                     <th>Left Office</th>
                     <th>Party</th>
+                    <th>Vice Presidents</th>
                 </tr>
             </thead>
             <tbody>
