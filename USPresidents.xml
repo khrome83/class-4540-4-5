@@ -647,6 +647,7 @@
         <number>44</number>
         <name>Barack Obama</name>
         <took_office>2009-01-20</took_office>
+        <left_office>Incumbent</left_office>
         <birthday>1961-08-04</birthday>
         <party>Democratic</party>
         <term>
