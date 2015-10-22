@@ -7,6 +7,13 @@
 
 <xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" version="1.0">
     <xsl:output method="html"/>
+    
+     <xsl:template match="president">
+        <p><xsl:value-of select="name"/></p>
+     </xsl:template>
+    
+    
+    
     <xsl:template match="/">
         <html>
             <head>
@@ -15,6 +22,7 @@
             </head>
             <body>
                 <h1>Table of US Presidents</h1>
+                <xsl:apply-templates select= "presidents/president"/> 
             </body>
         </html>
     </xsl:template>
