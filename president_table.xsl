@@ -9,23 +9,23 @@
     <xsl:output method="html"/>
     
     <xsl:template match="name">
-        <td><xsl:value-of select="."/></td>
+        <td class="name"><xsl:value-of select="."/></td>
     </xsl:template>
     
     <xsl:template match="birthday">
-        <td><xsl:value-of select="."/></td>
+        <td class="birthday"><xsl:value-of select="."/></td>
     </xsl:template>
     
     <xsl:template match="took_office">
-        <td><xsl:value-of select="."/></td>
+        <td class="took_office"><xsl:value-of select="."/></td>
     </xsl:template>
     
     <xsl:template match="left_office">
-        <td><xsl:value-of select="."/></td>
+        <td class="left_office"><xsl:value-of select="."/></td>
     </xsl:template>
     
     <xsl:template match="party">
-        <td><xsl:value-of select="."/></td>
+        <td class="party"><xsl:value-of select="."/></td>
     </xsl:template>
     
      <xsl:template match="president">
